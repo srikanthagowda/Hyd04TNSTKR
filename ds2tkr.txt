@@ -1,0 +1,254 @@
+
+Mysql
+
+DSA with cPP
+
+Github - Repo Hyd04-TNSTKR - java program 2months ---- clasify the code ---- R1 - electronics --- R2 ---cs --- R3 ---Civil
+
+Core java - Backend PL
+java 8 features - lamda expression , sam
+
++
+
+Adv java 
+
++
+
+Mysql
+
+sprint1 
+
+Python PL - Basic concpets core python
+
+
+
+Frontend
+
+HTML , CSS , JS
+
+
+React.js
+
+sprint2
+
+
+
+Full stack developer ----- BE(Java) , FE(React.js) ,Database(Mysql) - Relational - table(R c) - MongoDB 
+
+
+sprint1 - Technologies core java+ adv java + mysql +postman api (Interfaces for application )
+
+sprint2 - react.js
+
+
+Assesment 
+
+Assesment - Baseline Assesment - 80 marks - no worries wrt marks --- becareful when u r writing endline assesmnet 
+
+10 assesment - 10marks /6marks 
+
+
+DSA with CPP - 
+
+
+srikanth 33
+
+
+
+Name	   Age	
+Srikanth , 33
+suresh	  , 32
+
+
+
+we need to collctive collect the data and we are going to perform certain operation - searching(LS , BS) , sorting (MS , QS , IS , BS)
+
+
+
+Data
+Atomic , Non atomic 
+
+we cant able to decompose again - srikanth
+
+decompose  - address -
+
+
+
+Address
+#406 			- door no
+5 th a cross dp tumkur	- street address with city
+Karnataka 572104--	state with pin
+
+
+
+
+Categories of DS
+
+Premitive Ds ,                                                    Non pm
+
+
+Basic Datatype
+						Arrays string L
+
+
+	int 10 20 30(whole no)
+
+	float 10.20 , 23.32(decimal no)
+
+	double 10.678456 34.567854(
+
+	char 's' 'r'
+
+	String "srikanth"
+
+	pointer 
+
+Variables declaration and intiliazation 
+
+data = 10
+
+ a;
+
+int a =10;
+
+variable in PL 
+
+int a =10;
+
+
+int a=10 ----- address 1022 
+
+
+&a = 1022
+a=10
+
+
+
+
+pointer -- variable , which holds d address of another normal variable
+
+
+int b=&a;
+
+cout<<
+
+s.o.p(*b);
+
+
+
+
+Arrays - collection of homogeneous elements
+
+Ex { 10 , 20 , 30 , 40 , 50 } - int ds - arrays
+
+{ 10 , 10.20 , 's' , "sri" , 10.000000} - Not array
+
+
+Operations - Searching , Sorting 
+
+
+Searching - LS and BS - BS
+Sorting - MS QS IS BS
+
+
+10 20 30 40 50 - 30(Key element) - searcing - ls and bs
+
+
+23 12 42 32 45 sorting - Rearranging the given elements in d array 
+
+
+
+
+12 23 32 42 45 ascending order 
+
+
+45 42 32 23 12 
+
+
+
+Linear Search or sequential search or one by one 
+
+
+int a[5]={10 20 30 40 50} , n i.e no of elementr - 5 , o - 4
+
+KE 30
+
+
+logic
+
+
+i=0;
+KE=30;
+
+KE == a[i]; 
+
+30 == 10 wrong
+
+i++;
+
+
+i=1;
+
+KE==a[i];
+30==20; wrong
+
+i++;
+
+
+i=2;
+KE=30;
+30 == 30 yes
+
+
+
+
+Binary search 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
